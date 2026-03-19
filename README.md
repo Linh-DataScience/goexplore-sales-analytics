@@ -56,7 +56,7 @@ A few things I found interesting:
 ├── queries/
 │   └── queries.sql                  # BigQuery: master view + 9 queries
 ├── Presentation/
-│   └── Looker Presentation.xlsx     # Excel KPI workbook
+│   └── Looker Presentation.pdf     # PDF KPI workbook
 └── dashboard/
     └── Dashboard-Overview.pdf       # one-page summary
 ```
